@@ -1,0 +1,1 @@
+{"feature": [{"name": "item_retrieval_task", "type": "FLOAT", "annotation": {"extraMetadata": [{"_dims": [], "is_list": false, "is_ragged": false, "dtype_item_size": 32.0}]}}]}
